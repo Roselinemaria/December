@@ -5,6 +5,9 @@ public class NewSample {
 		System.out.println("Hi Everyone");
 
 	}
+	private void name() {
+		System.out.println("My name is Roseline");
+	}
  public static void main(String[] args) {
 	
 }
